@@ -1,0 +1,18 @@
+.button {
+  border: 0;
+  color: $white;
+  font-size: $font-medium;
+  margin-left: 10px;
+  padding: 0 15px;
+  height: 40px;
+
+  //mods
+  &-enviar {
+    background-color: rgb(10, 236, 252);
+  }
+
+  &-seguir {
+    background-color: red;
+  }
+
+}
